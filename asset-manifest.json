@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactMove/static/css/main.ebc93840.css",
-    "main.js": "/ReactMove/static/js/main.a119e92f.js",
+    "main.css": "/ReactMove/static/css/main.df8038b4.css",
+    "main.js": "/ReactMove/static/js/main.a95ac1ae.js",
     "static/media/logen.png": "/ReactMove/static/media/logen.6d76ace80af2e4564046.png",
     "static/media/FOLLOW~1.MP4": "/ReactMove/static/media/FOLLOW~1.79e1140a2d9c762af7cf.MP4",
     "static/media/Websiteign _u(.mp4": "/ReactMove/static/media/Websiteign _u(.dcc109f91819d605ac05.mp4",
@@ -22,11 +22,11 @@
     "static/media/Ram3.jpg": "/ReactMove/static/media/Ram3.ba8f3f867cd268acb0ef.jpg",
     "static/media/img2.jpeg": "/ReactMove/static/media/img2.5058be013d70b9257300.jpeg",
     "index.html": "/ReactMove/index.html",
-    "main.ebc93840.css.map": "/ReactMove/static/css/main.ebc93840.css.map",
-    "main.a119e92f.js.map": "/ReactMove/static/js/main.a119e92f.js.map"
+    "main.df8038b4.css.map": "/ReactMove/static/css/main.df8038b4.css.map",
+    "main.a95ac1ae.js.map": "/ReactMove/static/js/main.a95ac1ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebc93840.css",
-    "static/js/main.a119e92f.js"
+    "static/css/main.df8038b4.css",
+    "static/js/main.a95ac1ae.js"
   ]
 }
